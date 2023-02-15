@@ -70,4 +70,4 @@
 
 ![Benjamin K.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Benni0501&theme=radical)
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benni0501&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Benni0501&theme=radical&exclude_repo=PongGame&layout=compact)
