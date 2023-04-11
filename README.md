@@ -7,7 +7,6 @@
 - 🏫 I am currently attending the 4th Form in the HTBLA Kaindorf 
 - 🧑 I am 18 years old
 - 👨‍💻 Passionate Back-end Developer
-- <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" width="20"> Learning Flutter at the moment
 
 
 <h2 align ="center"> <b> Skills</b></h2>
