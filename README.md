@@ -8,8 +8,9 @@
 
 - 🇦🇹 I am from Austria
 - 🏫 I am currently attending the 5th Form in the HTBLA Kaindorf 
-- 🧑 I am 18 years old
+- 🧑 I am 19 years old
 - 👨‍💻 Passionate Back-end Developer
+- <img src="https://cdn3.emoji.gg/emojis/2382-rustacean.png" width="25"> Currently learning Rust
 
 
 <h2 align ="center"> <b> Skills</b></h2>
