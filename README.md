@@ -7,7 +7,7 @@
 <h2 align="center"><b>About me</b></h2>
 
 - 🇦🇹 I am from Austria
-- 🏫 I am currently attending the 5th Form in the HTBLA Kaindorf 
+- 🏫 I recently graduated at the HTBLA Kaindorf
 - 🧑 I am 19 years old
 - 👨‍💻 Passionate Back-end Developer
 - <img src="https://cdn3.emoji.gg/emojis/2382-rustacean.png" width="25"> Currently learning Rust
