@@ -8,7 +8,7 @@
 
 - 🇦🇹 I am from Austria
 - 🏫 I recently graduated at the HTBLA Kaindorf
-- 🧑 I am 19 years old
+- 🧑 I am 20 years old
 - 👨‍💻 Passionate Back-end Developer
 - <img src="https://cdn3.emoji.gg/emojis/2382-rustacean.png" width="25"> Currently learning Rust
 
